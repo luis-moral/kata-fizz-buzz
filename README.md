@@ -1,4 +1,4 @@
-#Fizz Buzz Kata#
+# Fizz Buzz Kata #
 
 Return "fizz", "buzz" or "fizzbuzz".
 
